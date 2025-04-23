@@ -26,6 +26,12 @@ Make a few notes on these questions and anything else you'd like to talk to your
 ## Getting Started with playingcards.io (20 min)
 For the final assignment for this unit, you will be creating a table top card game. While you will be expected to produce and playtest with paper prototypes, the final submission will be a digitised version created using [playingcards.io](https://playingcards.io/). Let's take some time to get familiar with the tool.
 
+### What is playingcards.io?
+playingcards.io is a free to use tool for making and playing tabletop games online. The site allows you to create "rooms" where you can set-up tables with cards, tokens, dice and more. You can use this platform to play established games, or add your own cards and resources to create custom games.
+
+"Rooms" can be exported ready to go, bundled with all custom assets (such as cards). We will be using this tool to have you submit your final game, as this best simulates a real-life card game scenario without worrying about printing and other resource restrictions.
+
+### Setting up
 Head to the website and press `Log In/Sign Up` to make an account (or log in if you have one already!). Follow the prompts to create your account. You do not need to sign up for a subscription.
 
 Head to the `Games` menu and select a game. We recommend selecting one you are relatively familiar with, so you can better understand the mechanics at play.
@@ -50,8 +56,10 @@ Like any good game making tool, playingcards.io also has an edit mode.
 ![Image of the Go Fish board in edit mode on playingcards.io](images/GoFishEditMode.png)
 
 
-## Creating a "table" (20 min)
+## Creating a "room" (20 min)
+When you start with a blank room, you'll see a screen like the one below. The big grey space is your table, whereas the white rectangle down the bottom if your "hand". You have a hand even if not set as a player.
 
+You can begin to edit and add things to your game by pressing the "Edit Table" button, shaped like a little briefcase icon, along the bottom or side of your screen.
 ## Creating a custom deck (20 min)
 Working with the built in cards is all well and good, but when you make your assignment, you will want to be using custom cards. We do not expect you to have started creating these yet, so instead we will just get familiar with the workflow for doing so.
 
@@ -60,48 +68,36 @@ playingcards.io allows you to upload images and then add text to them to create 
 ### Finding an image
 First, let's find an image to use for our card. A good resource is [The Public Domain Image Archive](https://pdimagearchive.org). This is a collection of images that are in the public domain, making them completely free to use. Have a quick browse and find something you like. Don't be too selective here, this is just for today's task.
 
+### Other features
+Below is a quick run-down of other features within playingcards.io. You are not expected to use or experiment with these now, but we wanted you to have a good understanding of what you can work with for this assignment. You may wish to re-visit this prac in the future as a quick reference guide. There is more info on all of this in the [playingcards.io documentation](https://playingcards.io/docs/).
 
+#### Game Pieces
+Just like with cards, you can place other game pieces into your table. These operate much like cards in that you can have them custom made. Any of these types of pieces are validly used for resources in your game as per the spec, as long as it is clear what is what.
+
+![An image of the game pieces menu in playingcards.io](images/gamepieces.png)
+If you wish to edit custom pieces, the interface is much the same as for cards.
+
+![An image of the edit menu for game pieces in playingcards.io](images/gamepiecesedit.png)
+
+Other game boards can also be used. You may wish to use these for some sort of "minimap" per player to track resources, as per the assignment spec. Feel free to get creative!
+
+![An image of the game boards in playingcards.io](images/gameboards.png)
+
+#### Interactive Pieces and Player Seats
+Interactive pieces such as reset buttons, player seats and timers are useful for making your game easeir to play digitally. Remember that anything you use here you'd need to be able to replicate in your paper prototyping.
+
+##### Player Seats
+Although it doesn't appear player seats are necessary to play games using the platform, they certainly make life easier. Player Seats can be used to allow players to select a "Seat" and be given control over all the resources associated with it. This might include dice, timers, resources, cards, etc. To link a player seat with resources, first make sure they are all present on the table, then select the Player Seat options and click "Link Widgets". Each element you select will become linked to this player.
+
+![An image of the player seats widget](images/playerseats.png)
 
 ## Saving The Game (10 min)
 You can export your game from the room settings. This will save the table state, any linked widgets, and the images for your cards ready for distribution. You can then reimport it to continue where you left off. Remember that this also saves the table state, so make sure what you submit to us at the end is a game ready to go, not one in progress (we recommend having a seperate "master file" that you only over-write with ready-to-submit versions of the game, and keep your testing files separate).
 
 ![A screenshot of the room export/import button](images/exportimport.png)
-### Reflect
-Include a section on reflection to ensure students are doing something with their knowledge in the moment.
-
-## Next Week
-Brief statement on next week's lab.
-
-
-What is playingcards.io?
-playingcards.io is a free to use tool for making and playing tabletop games online. The site allows you to create "rooms" where you can set-up tables with cards, tokens, dice and more. You can use this platform to play established games, or add your own cards and resources to create custom games.
-
-"Rooms" can be exported ready to go, bundled with all custom assets (such as cards). We will be using this tool to have you submit your final game, as this best simulates a real-life card game scenario without worrying about printing and other resource restrictions.
-
-What doesn't playingcards.io do?
-playingcards.io has some automation features, but these remain a little finicky. We therefore recommend you set-up your game to allow players to add counters, draw cards, etc. manually (although you are free to play with these automation methods if you want).
-
-playingcards.io also doesn't support any sort of chat (voice or otherwise) between players. You will therefore need to be communicating with your team through other means when playing.
-
-How do I get started with playingcards.io?
-The best way to get started with the site is to get together with your team and play an existing game on the site to understand the interface. You can do this by selecting Games from the main site, then selecting any game from the list. We have also provided a sample game, For All Robotkind, in the Examples and Templates folder on iLearn.
-
-
-
-Once you are comfortable, you can start modifying the game by pressing the Edit Table button.
-
-
-
-This thread will continue to be updated with instructions and tips on how to achieve certain things when building your game, but you also want to check out the documentation from playincards.io itself: https://playingcards.io/docs/
 
 Making your game
 To get started on making your game, either begin by loading up the template For All Robotkind, or press the New Custom Room and then Start Blank Room button to start with a blank table.
-
-
-If you start with a blank room, you'll see a screen like the one below. The big grey space is your table, whereas the white rectangle down the bottom if your "hand". You have a hand even if not set as a player.
-
-You can begin to edit and add things to your game by pressing the "Edit Table" button, shaped like a little briefcase icon, along the bottom or side of your screen.
-
 
 Adding cards
 
@@ -119,48 +115,7 @@ Here, you can upload images and add text to both the face and back of the card (
 
 Importantly, you can set whether all cards in a deck have the same text on them, or the same image on the front or back by changing the setting to the right when uploading an image. By default, this is often set to "All the Same", so make sure you double-check it before making changes. You may want it set to "All the Same" for back images, for instance, so your players can keep track of what cards belong to what decks.
 
-
-
-
-\
-
 Finally, you can set the overall properties of the deck via the "General" tab. We recommend turning on "Enlarge objects" as this makes it easier for players to see what cards can do. Set the other settings as you see fit, but I'd imagine "Flip Card" should probably be turned on.
-
-
-
-Game Pieces
-Just like with cards, you can place other game pieces into your table. These operate much like cards in that you can have them custom made. Any of these types of pieces are validly used for resources in your game as per the spec, as long as it is clear what is what.
-
-
-If you wish to edit custom pieces, the interface is much the same as for cards.
-
-
-
-Other game boards can also be used. You may wish to use these for some sort of "minimap" per player to track resources, as per the assignment spec. Feel free to get creative!
-
-Interactive Pieces and Player Seats
-We don't expect you to use too many if these interactive pieces in your game, but you may wish to use Player Seats and Timers. Remember that anything you use here you'd need to be able to replicate in your paper prototyping.
-Player Seats
-Although it doesn't appear player seats are necessary to play games using the platform, they certainly make life easier. Player Seats can be used to allow players to select a "Seat" and be given control over all the resources associated with it. This might include dice, timers, resources, cards, etc. To link a player seat with resources, first make sure they are all present on the table, then select the Player Seat options and click "Link Widgets". Each element you select will become linked to this player.
-
-
-
-
-
-
-
-
-
-Exporting and importing your game
-
-
-
-
-More questions?
-If anything is unclear, or you'd like more information on how to do something, please let us know! We will update this document throughout semester.
-
-
-
 
 
 
