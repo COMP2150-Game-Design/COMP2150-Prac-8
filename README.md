@@ -60,13 +60,35 @@ Like any good game making tool, playingcards.io also has an edit mode.
 When you start with a blank room, you'll see a screen like the one below. The big grey space is your table, whereas the white rectangle down the bottom if your "hand". You have a hand even if not set as a player.
 
 You can begin to edit and add things to your game by pressing the "Edit Table" button, shaped like a little briefcase icon, along the bottom or side of your screen.
+
 ## Creating a custom deck (20 min)
 Working with the built in cards is all well and good, but when you make your assignment, you will want to be using custom cards. We do not expect you to have started creating these yet, so instead we will just get familiar with the workflow for doing so.
 
-playingcards.io allows you to upload images and then add text to them to create a "card". You may prefer to have all the text embedded in the image (such as building it in Photoshop or Illustrator, or even by hand!). For today, let's see what the platform has to offer!
+When editing your game, you can add a standard set of cards (for playtesting only, not for your submission!) or a "Custom Card Deck". To add a Custom Card Deck, simply drag it from the Card Decks folder and place it onto your table.
 
-### Finding an image
-First, let's find an image to use for our card. A good resource is [The Public Domain Image Archive](https://pdimagearchive.org). This is a collection of images that are in the public domain, making them completely free to use. Have a quick browse and find something you like. Don't be too selective here, this is just for today's task.
+![An image of the card decks menu in playingcards.io](images/cardmenu.png)
+
+The card deck should then appear as below. The number "0" represents how many cards are actually in the deck. To start making and adding cards, press the "Edit Collection" button.
+
+![An image of a custom collection ready for editing in playingcards.io](images/editdeck.png)
+
+This will give you a list of different cards, each with a name, an image and design, as well as how many copies exist in the deck (so you can have rare cards and common cards, for instance). You can add more cards to this list, or simply work with the ones that appear here and modify them. To have a  card appear in the deck, you must first increase its count by pressing the small plus button next to is number. It is a good idea to rename your cards, too.
+
+When you want to change the design on the card, press the "Upload Image(s)" button. If you want to try this out, you'll need an image. A good resource is [The Public Domain Image Archive](https://pdimagearchive.org). This is a collection of images that are in the public domain, making them completely free to use. Have a quick browse and find something you like. Don't be too selective here, this is just for today's task.
+
+![An image of the deck editor in playingcards.io](images/deckeditor.png)
+
+Here, you can upload images and add text to both the face and back of the card (switching between them by selecting "face" or "back"). You can also set a few other aesthetic options such as if the cards are rounded, have a heavy border, etc.
+
+![An image of the card editor in playingcards.io](images/cardeditor.png)
+
+Importantly, you can set whether all cards in a deck have the same text on them, or the same image on the front or back by changing the setting to the right when uploading an image. By default, this is often set to "All the Same", so make sure you double-check it before making changes. You may want it set to "All the Same" for back images, for instance, so your players can keep track of what cards belong to what decks.
+
+![An image of the card editor in playingcards.io, specifically the card-difference menu](images/carddiff.png)
+
+Finally, you can set the overall properties of the deck via the "General" tab. We recommend turning on "Enlarge objects" as this makes it easier for players to see what cards can do. Set the other settings as you see fit, but I'd imagine "Flip Card" should probably be turned on.
+
+![An image of the card settings in playingcards.io](images/cardsettings.png)
 
 ### Other features
 Below is a quick run-down of other features within playingcards.io. You are not expected to use or experiment with these now, but we wanted you to have a good understanding of what you can work with for this assignment. You may wish to re-visit this prac in the future as a quick reference guide. There is more info on all of this in the [playingcards.io documentation](https://playingcards.io/docs/).
@@ -95,29 +117,3 @@ Although it doesn't appear player seats are necessary to play games using the pl
 You can export your game from the room settings. This will save the table state, any linked widgets, and the images for your cards ready for distribution. You can then reimport it to continue where you left off. Remember that this also saves the table state, so make sure what you submit to us at the end is a game ready to go, not one in progress (we recommend having a seperate "master file" that you only over-write with ready-to-submit versions of the game, and keep your testing files separate).
 
 ![A screenshot of the room export/import button](images/exportimport.png)
-
-Making your game
-To get started on making your game, either begin by loading up the template For All Robotkind, or press the New Custom Room and then Start Blank Room button to start with a blank table.
-
-Adding cards
-
-When editing your game, you can add a standard set of cards (for playtesting only, not for your submission!) or a "Custom Card Deck". To add a Custom Card Deck, simply drag it from the Card Decks folder and place it onto your table.
-
-
-The card deck should then appear as below. The number "0" represents how many cards are actually in the deck. To start making and adding cards, press the "Edit Collection" button.
-
-
-This will give you a list of different cards, each with a name, an image and design, as well as how many copies exist in the deck (so you can have rare cards and common cards, for instance). You can add more cards to this list, or simply work with the ones that appear here and modify them. To have a  card appear in the deck, you must first increase its count by pressing the small plus button next to is number. It is a good idea to rename your cards, too.
-
-When you want to change the design on the card, press the "Upload Image(s)" button.
-Here, you can upload images and add text to both the face and back of the card (switching between them by selecting "face" or "back"). You can also set a few other aesthetic options such as if the cards are rounded, have a heavy border, etc.
-
-
-Importantly, you can set whether all cards in a deck have the same text on them, or the same image on the front or back by changing the setting to the right when uploading an image. By default, this is often set to "All the Same", so make sure you double-check it before making changes. You may want it set to "All the Same" for back images, for instance, so your players can keep track of what cards belong to what decks.
-
-Finally, you can set the overall properties of the deck via the "General" tab. We recommend turning on "Enlarge objects" as this makes it easier for players to see what cards can do. Set the other settings as you see fit, but I'd imagine "Flip Card" should probably be turned on.
-
-
-
-
-
