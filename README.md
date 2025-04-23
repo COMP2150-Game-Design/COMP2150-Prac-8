@@ -1,6 +1,8 @@
 # Week 8 - Feedback Review and PlayingCards.io Introduction
 Today you will be given the chance to go over your Level Design Assignment feedback with your instructor, and then begin exploring the playingcards.io tool you will be using for your final assignment.
 
+Today is less prescriptive than some of the previous weeks. We want to give you a chance to play around with the tools within playingcards.io, and so are not suggesting an exact deliverable or thing to finish today. Experiment, have fun, and learn the ins-and-outs of the tool!
+
 ## Tools used
 Today's task uses (but is not limited to):
 
@@ -32,7 +34,7 @@ playingcards.io is a free to use tool for making and playing tabletop games onli
 "Rooms" can be exported ready to go, bundled with all custom assets (such as cards). We will be using this tool to have you submit your final game, as this best simulates a real-life card game scenario without worrying about printing and other resource restrictions.
 
 ### Setting up
-Head to the website and press `Log In/Sign Up` to make an account (or log in if you have one already!). Follow the prompts to create your account. You do not need to sign up for a subscription.
+Head to the website and press `Log In / Sign Up` to make an account (or log in if you have one already!). Follow the prompts to create your account. You do not need to sign up for a subscription.
 
 Head to the `Games` menu and select a game. We recommend selecting one you are relatively familiar with, so you can better understand the mechanics at play.
 
@@ -53,13 +55,22 @@ In the game you chose, start getting familiar with how flipping and moving cards
 Get familiar with the game a bit, so you can understand what your game's experience will be like for your players and the markers.
 
 Like any good game making tool, playingcards.io also has an edit mode. 
+
 ![Image of the Go Fish board in edit mode on playingcards.io](images/GoFishEditMode.png)
 
+### Playing with a friend
+Have another class mate join your game (or join theirs) using the code from before. If you've forgotten it, you can find it by pressing `Players and Sharing > Invite Players` and sending the URL. This is a good chance to just see what it is actually like to play with someone else using this tool.
 
 ## Creating a "room" (20 min)
+You can create a new blank room by pressing the small plus button on the main page next to your username, then selecting `Start Blank Room.`
+
+![An image showing how to click a plus icon to make a new blank room.](images/newcustomroom.png)
+
 When you start with a blank room, you'll see a screen like the one below. The big grey space is your table, whereas the white rectangle down the bottom if your "hand". You have a hand even if not set as a player.
 
-You can begin to edit and add things to your game by pressing the "Edit Table" button, shaped like a little briefcase icon, along the bottom or side of your screen.
+![An image showing an empty board.](images/blankroom.png)
+
+You can begin to edit and add things to your game by pressing the "Edit Table" button, shaped like a little briefcase icon.
 
 ## Creating a custom deck (20 min)
 Working with the built in cards is all well and good, but when you make your assignment, you will want to be using custom cards. We do not expect you to have started creating these yet, so instead we will just get familiar with the workflow for doing so.
@@ -74,9 +85,9 @@ The card deck should then appear as below. The number "0" represents how many ca
 
 This will give you a list of different cards, each with a name, an image and design, as well as how many copies exist in the deck (so you can have rare cards and common cards, for instance). You can add more cards to this list, or simply work with the ones that appear here and modify them. To have a  card appear in the deck, you must first increase its count by pressing the small plus button next to is number. It is a good idea to rename your cards, too.
 
-When you want to change the design on the card, press the "Upload Image(s)" button. If you want to try this out, you'll need an image. A good resource is [The Public Domain Image Archive](https://pdimagearchive.org). This is a collection of images that are in the public domain, making them completely free to use. Have a quick browse and find something you like. Don't be too selective here, this is just for today's task.
+![An image of the deck editor in playingcards.io](images/editingcollection.png)
 
-![An image of the deck editor in playingcards.io](images/deckeditor.png)
+When you want to change the design on the card, press the "Upload Image(s)" button. If you want to try this out, you'll need an image. A good resource is [The Public Domain Image Archive](https://pdimagearchive.org). This is a collection of images that are in the public domain, making them completely free to use. Have a quick browse and find something you like. Don't be too selective here, this is just for today's task.
 
 Here, you can upload images and add text to both the face and back of the card (switching between them by selecting "face" or "back"). You can also set a few other aesthetic options such as if the cards are rounded, have a heavy border, etc.
 
@@ -112,6 +123,8 @@ Interactive pieces such as reset buttons, player seats and timers are useful for
 Although it doesn't appear player seats are necessary to play games using the platform, they certainly make life easier. Player Seats can be used to allow players to select a "Seat" and be given control over all the resources associated with it. This might include dice, timers, resources, cards, etc. To link a player seat with resources, first make sure they are all present on the table, then select the Player Seat options and click "Link Widgets". Each element you select will become linked to this player.
 
 ![An image of the player seats widget](images/playerseats.png)
+![Player owned dice](images/playerdice.png)
+![Linked widgets](images/linkedwidgets.png)
 
 ## Saving The Game (10 min)
 You can export your game from the room settings. This will save the table state, any linked widgets, and the images for your cards ready for distribution. You can then reimport it to continue where you left off. Remember that this also saves the table state, so make sure what you submit to us at the end is a game ready to go, not one in progress (we recommend having a seperate "master file" that you only over-write with ready-to-submit versions of the game, and keep your testing files separate).
